@@ -12,3 +12,8 @@ Nous étudions cette dynamique dans divers pays et régions, depuis Mars 2020, e
 
 
 Les auteurs sont **François Varret**, physicien, professeur émérite à l’université de Versailles Saint Quentin, et **Mathilde Varret**, biologiste et généticienne à l’INSERM, hôpital Bichat.
+
+
+<img src='/lettres/images/masque.png' width='200px'/>
+<img src='/lettres/images/mains.png' width='200px'/>
+<img src='/lettres/images/autres.png' width='200px'/>
