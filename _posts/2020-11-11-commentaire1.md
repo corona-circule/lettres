@@ -13,4 +13,4 @@ share: true
 
 
 
-[commentaire n°1 au format __PDF__](/lettres/resources/pdf/commenatire-01.pdf)
+[commentaire n°1 au format __PDF__](/lettres/resources/pdf/commentaire-01.pdf)

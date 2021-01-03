@@ -1,11 +1,11 @@
 ---
-title: CC-1-Une déclaration optimiste du Directeur de l’AP-HP
+title: CC-2-De l’objectif mythique 5000 cas au conseil du futur ex-Président Trump 
 hidden: false
 categories: COVID FR
-tags: commentaire GEODES Santé Publique France  Ile France Auvergne Rhône Alpes
+tags: commentaire
 comments: true
 author: corona-circule
-permalink: com01
+permalink: com02
 share: true
 ---
 
@@ -13,4 +13,4 @@ share: true
 
 
 
-[commentaire n°1 au format __PDF__](/lettres/resources/pdf/commenatire-01.pdf)
+[commentaire n°2 au format __PDF__](/lettres/resources/pdf/commentaire-02.pdf)
